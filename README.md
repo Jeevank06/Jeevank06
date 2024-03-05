@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Engineering
 - 💞️ I’m looking to collaborate on Data
-- 📫 How to reach me jeevankumark1205@gmail.com
+- 📫 How to reach me jeevankumark1012@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
